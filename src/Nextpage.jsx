@@ -6,7 +6,7 @@ export default function Nextpage()
 {
     return(
         <div style={{ 
-            backgroundImage: `url('../public/images/bg2.png')`, 
+            backgroundImage: `url('../images/bg2.png')`, 
             backgroundSize: 'cover',
             backgroundRepeat: 'no-repeat',
             backgroundPosition: 'center',
