@@ -7,7 +7,7 @@ export default function Mainpage()
 {
     return(
         <div style={{ 
-            backgroundImage: `url('/assets/bg.png')`, 
+            backgroundImage: `url('../public/images/bg.png')`, 
             backgroundSize: 'cover',
             backgroundRepeat: 'no-repeat',
             backgroundPosition: 'center',
